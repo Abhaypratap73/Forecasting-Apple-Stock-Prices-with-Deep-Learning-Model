@@ -1,2 +1,2 @@
 # Forecasting-Apple-Stock-Prices-with-Deep-Learning-Model
-Developed a deep learning model (LSTM) to forecast Apple stock prices, using Tiingo API data spanning 5 years. Predicted stock prices for a 30-day period, leveraging NumPy, Pandas, Matplotlib, and TensorFlow for analysis and visualization
+Leveraged the Tiingo API to extract 5 years of Apple stock data and developed an LSTM-based deep learning model to forecast stock prices over a 30-day horizon. Utilized NumPy, Pandas, Matplotlib, TensorFlow, and Keras for data processing, visualization, and model implementation.
